@@ -1,3 +1,6 @@
 file 3
 only exists on the new_feature branch
 too much coffee
+added this line
+and this line
+and finally this line
