@@ -1,0 +1,3 @@
+this is file 1
+it has 3 lines
+What a nice file
